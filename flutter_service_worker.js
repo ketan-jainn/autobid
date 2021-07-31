@@ -238,15 +238,15 @@ const RESOURCES = {
 "assets/packages/flutter_icons/fonts/weathericons.ttf": "4618f0de2a818e7ad3fe880e0b74d04a",
 "assets/packages/flutter_icons/fonts/Zocial.ttf": "5cdf883b18a5651a29a4d1ef276d2457",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "174c02fc4609e8fc4389f5d21f16a296",
-"auto_bidding_web.zip": "761d19fff64232edf60b6417ac159f8a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "f2590bc0b4ce6218c6fd20cac3201899",
-"/": "f2590bc0b4ce6218c6fd20cac3201899",
-"main.dart.js": "76cf9cce21da0595936017370d0f522b",
+"index.html": "f95ca52bc61e4dbe7106b2c86d101336",
+"/": "f95ca52bc61e4dbe7106b2c86d101336",
+"main.dart.js": "fdb16551cffa500c8a03415e1f817495",
 "manifest.json": "81884be118c5720f86c7c50726bd426b",
-"version.json": "0e31302b904cc9746b527790a3b72c61"
+"version.json": "0e31302b904cc9746b527790a3b72c61",
+"web.rar": "74fe89c17a9833e103b6bf80b41532bb"
 };
 
 // The application shell files that are downloaded before a service worker can
